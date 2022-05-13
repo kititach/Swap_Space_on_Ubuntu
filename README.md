@@ -1,4 +1,4 @@
-# Swap_Space_on_Ubuntu
+# Swap_Space_On_Ubuntu
 ### ตรวจสอบระบบสำหรับการติดตั้งก่อน
 ```
 sudo swapon --show
